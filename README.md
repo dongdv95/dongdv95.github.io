@@ -1,15 +1,18 @@
-## Welcome to GitHub Pages
+### Hi there 👋, my name is Dong Van Dong
+#### I'm an artificial intelligence programmer from Vietnam
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongdv95)](https://github.com/anuraghazra/github-readme-stats)
+![I'm an artificial intelligence programmer from Vietnam](https://github.com/dongdv95/dongdv95.github.io/blob/main/bg.jpeg?raw=true)
 
-![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
+I made this project just for fun, 
 
-# Adrian Twarog
-I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+Skills: PYTHON / REACT / OPENCV / DJANGO 
 
-## Skills and Experience
-* ⚛ React
-* 📱 React Native
-* 💻 HTML, CSS, JS
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 ## Examples of Work
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
+<img src="https://github.com/dongdv95/dongdv95.github.io/blob/main/aibackgroundpicolo.gif?raw=true" width="512" >
