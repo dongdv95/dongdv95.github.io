@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongdv95)](https://github.com/anuraghazra/github-readme-stats)
 
 You can use the [editor on GitHub](https://github.com/dongdv95/dongdv95.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
